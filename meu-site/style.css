@@ -1,0 +1,31 @@
+/*
+FONTES PARA USAR
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+font-family: 'Lato', sans-serif;
+
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+font-family: 'Roboto Slab', serif;
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+ font-family: 'Montserrat', sans-serif;
+
+<link href="https://fonts.googleapis.com/css?family=Exo" rel="stylesheet">
+font-family: 'Exo', sans-serif;
+
+<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+font-family: 'Orbitron', sans-serif;
+*/
+
+h1 {
+    padding-left: 50px;
+    font-family: 'Orbitron', sans-serif;
+    
+  }
+
+  p{
+    font-size: 17px;
+    font-family: sans-serif;font-family: sans-serif;
+  }
+  body{
+    background-color: blueviolet;
+  }
